@@ -1,0 +1,20 @@
+[
+ {
+ "Country":"Indonesia",
+ "City":"Jakarta (Birth Place)",
+ "Latitude":-6.124,
+ "Longitude":106.779
+ },
+ {
+ "Country":"Cupertino, CA",
+ "City":"De Anza College",
+ "Latitude":37.32,
+ "Longitude":-122.0473
+ },
+ {
+ "Country":"Columbus, OH",
+ "City":"The Ohio State University",
+ "Latitude":40.0138,
+ "Longitude":-83.030
+ }
+ ]
